@@ -232,14 +232,25 @@ function create_config( )
     "tools",
 "Add_Plugin",
 "Aparat",
-"Arz",
-"Azan",
 "Cpu",
 "rmsg",
-"Time",
 "Welcome",
-"Whitelist"
-    },
+"Lock_Fosh",
+"Weather",
+"clean-delete",
+"filter",
+"mute-all",
+"nerkh",
+"rps",
+"saveplug",
+"security",
+"set",
+"setbye",
+"setwelcome",
+"setwlc",
+"welcome",
+
+		},
     vip_users = {}, --vip users
     sudo_users = {(277313212)},--Sudo users
     support_gp = {},--Support id
