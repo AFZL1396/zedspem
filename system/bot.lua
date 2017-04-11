@@ -230,6 +230,8 @@ function create_config( )
     "language",
     "whitelist",
     "tools",
+     "sethelp",
+     "Setnerkh"
 		},
     vip_users = {}, --vip users
     sudo_users = {(277313212)},--Sudo users
