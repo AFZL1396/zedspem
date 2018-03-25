@@ -231,7 +231,6 @@ function create_config( )
     "whitelist",
     "tools",
      "sethelp",
-     "Setnerkh"
 		},
     vip_users = {}, --vip users
     sudo_users = {(568648970)},--Sudo users
